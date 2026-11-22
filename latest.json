@@ -1,16 +1,16 @@
 {
-  "version": "0.7.16",
-  "notes": "### Ostraca 0.7.16 for Windows\n\n- Keeps your Ostraca sign-in across normal restarts and retries after temporary connection failures. You may need to sign in once after updating if the previous version didn\u2019t save your session.\n- **Settings \u2192 Connect** replaces the old Sync tab name. Existing libraries and sync settings carry over.\n- Transcripts has a simpler toolbar and retains access to earlier Vexa recordings. Starting a new Vexa call is no longer offered. MeetStream key and settings setup remain available; MeetStream joining and live transcription are not enabled in this update.",
-  "pub_date": "2026-11-22T22:41:56.017701Z",
-  "url": "https://github.com/Kingmatfat/Ostraca-releases/releases/tag/v0.7.16",
+  "version": "0.7.17",
+  "notes": "### Ostraca 0.7.17 for Windows\n\n- **Notes, Transcripts and AI** now share the same resizable sidebar. Search recordings and transcripts or find an older chat without leaving its workspace.\n- **Earlier recordings** opens in a separate dialog, so importing older Teams recordings doesn't push the workspace down.\n- **AI chats** open at the newest message. Scroll up to read without being pulled down by a reply, or use **Jump to latest** above the message box. Existing chat history stays on this device.\n- Your libraries, account and sync settings carry over. This update does not enable new Teams bot capture.",
+  "pub_date": "2026-11-22T23:25:34.117537Z",
+  "url": "https://github.com/Kingmatfat/Ostraca-releases/releases/tag/v0.7.17",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/Kingmatfat/Ostraca-releases/releases/download/v0.7.16/Ostraca_0.7.16_x64_Setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYXpFYmdibmptcjRsUWI1QmxTZFA4d2NqeDZ4OE5uZzFTOHBnWlZEYzNhcDJBaC9VaUlVUFM4d09iTHhvVkhxbGkzUGZKUm1WWnpEdGpxSko2Qi84cjNpdis5OURaRnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mzg3MjUzCWZpbGU6T3N0cmFjYV8wLjcuMTZfeDY0X1NldHVwLmV4ZQl2ZXJzaW9uOjAuNy4xNgpOTXliY0FaM0VTWW9nQWpHSmE1SnRCSHBtNnhFYjB0aGc1S1MvVXZFYXRsa2I0RnJ6b0FuQWRlTFdURllVRjdNUEdhMHFqdXk5cHphTWtFSDlEdmpCZz09Cg=="
+      "url": "https://github.com/Kingmatfat/Ostraca-releases/releases/download/v0.7.17/Ostraca_0.7.17_x64_Setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYXpFYmdibmptci81dGNTeVB0WTlTV2E3eFpMNElwYUFQU0hEWjFleUlhMUk5a0dQR1JyMHp1alV1TGVXdlRnWkptTVZjTDNiS01yQ0tkRitHWE5PdXpZOXJ0dnBzcmc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mzg5ODgxCWZpbGU6T3N0cmFjYV8wLjcuMTdfeDY0X1NldHVwLmV4ZQl2ZXJzaW9uOjAuNy4xNwo3eUJUbGltNE9kMlhzRTcybTVCdlkxTzFGMDFBeGo1MjRkTnRVZWdRL0lYN3hMN3dMVm5UZkFxRk5CS2RxQ28rRDFXK3VYU3Y4T2t4TEk0djVjeTJEdz09Cg=="
     },
     "windows-x86_64-nsis": {
-      "url": "https://github.com/Kingmatfat/Ostraca-releases/releases/download/v0.7.16/Ostraca_0.7.16_x64_Setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYXpFYmdibmptcjRsUWI1QmxTZFA4d2NqeDZ4OE5uZzFTOHBnWlZEYzNhcDJBaC9VaUlVUFM4d09iTHhvVkhxbGkzUGZKUm1WWnpEdGpxSko2Qi84cjNpdis5OURaRnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mzg3MjUzCWZpbGU6T3N0cmFjYV8wLjcuMTZfeDY0X1NldHVwLmV4ZQl2ZXJzaW9uOjAuNy4xNgpOTXliY0FaM0VTWW9nQWpHSmE1SnRCSHBtNnhFYjB0aGc1S1MvVXZFYXRsa2I0RnJ6b0FuQWRlTFdURllVRjdNUEdhMHFqdXk5cHphTWtFSDlEdmpCZz09Cg=="
+      "url": "https://github.com/Kingmatfat/Ostraca-releases/releases/download/v0.7.17/Ostraca_0.7.17_x64_Setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYXpFYmdibmptci81dGNTeVB0WTlTV2E3eFpMNElwYUFQU0hEWjFleUlhMUk5a0dQR1JyMHp1alV1TGVXdlRnWkptTVZjTDNiS01yQ0tkRitHWE5PdXpZOXJ0dnBzcmc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mzg5ODgxCWZpbGU6T3N0cmFjYV8wLjcuMTdfeDY0X1NldHVwLmV4ZQl2ZXJzaW9uOjAuNy4xNwo3eUJUbGltNE9kMlhzRTcybTVCdlkxTzFGMDFBeGo1MjRkTnRVZWdRL0lYN3hMN3dMVm5UZkFxRk5CS2RxQ28rRDFXK3VYU3Y4T2t4TEk0djVjeTJEdz09Cg=="
     }
   }
 }
