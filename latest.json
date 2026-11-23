@@ -1,16 +1,16 @@
 {
-  "version": "0.7.21",
-  "notes": "### Ostraca 0.7.21 for Windows\n\n- Create your own account or accept a workspace invitation in **Settings \u2192 Connect**. Website sign-in is a separate permission when the site restriction is enabled.\n- Vexa controls are removed. MeetStream remains available for enabled accounts; files already saved to your library are unchanged.\n- For a MeetStream meeting with both outputs, **Transcribe saved audio** can add a second transcript beside the live version, with explicit OpenAI consent.",
-  "pub_date": "2026-11-23T03:36:30.106039Z",
-  "url": "https://github.com/Kingmatfat/Ostraca-releases/releases/tag/v0.7.21",
+  "version": "0.7.22",
+  "notes": "### Ostraca 0.7.22 for Windows\n\n- Updates the bundled FFmpeg, URL-handling library and SQLite for security.\n- Windows only. No changes to account access, notes, libraries or sync settings.",
+  "pub_date": "2026-11-23T04:43:45.460342Z",
+  "url": "https://github.com/Kingmatfat/Ostraca-releases/releases/tag/v0.7.22",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/Kingmatfat/Ostraca-releases/releases/download/v0.7.21/Ostraca_0.7.21_x64_Setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYXpFYmdibmptcjRLSE1WcmNGWVhLVzR3M0VKMW5xSlF5Q09hYUVadWh2UHZpUkdnWE8weGl6YWlhc3hqRnhkWHVlcmZuZ0paSDZqUHpHQ2I1dzl2Z05YWGw5cWE2Z3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDA0OTM1CWZpbGU6T3N0cmFjYV8wLjcuMjFfeDY0X1NldHVwLmV4ZQl2ZXJzaW9uOjAuNy4yMQo0eDBWT1NkMlY2bncvQVhzcHFZK1BsNU9YZ2tkbWRkL09mWmpiYzBrU3V4TG55QzhFb2Fhc04rL2kvbmpzdityMkd2U3pTM1lIdnJEOTNLT0lhbTFCZz09Cg=="
+      "url": "https://github.com/Kingmatfat/Ostraca-releases/releases/download/v0.7.22/Ostraca_0.7.22_x64_Setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYXpFYmdibmptcndKdDdPeVQ3STdaV3hYdm04ZHhhK21seHRtYkFyYy9nVklJR3RkY3c4MXBRd05pWGRMODN6ZlFjck9LTzZZcUR4TzNNaWVNV1pQL2VVK1VRTnhsdVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDA4NzM1CWZpbGU6T3N0cmFjYV8wLjcuMjJfeDY0X1NldHVwLmV4ZQl2ZXJzaW9uOjAuNy4yMgpFcDMwWFZBOEZ0QUs5cDdBd1g0YnV1a1h5SXlpS3I4bkJ1dldTd1MrL0MxeTZmRHZmVU1rUk1iSEk2REhHdW9Nbk5EaDlaaVNJMU9qaksrT3oxRVREZz09Cg=="
     },
     "windows-x86_64-nsis": {
-      "url": "https://github.com/Kingmatfat/Ostraca-releases/releases/download/v0.7.21/Ostraca_0.7.21_x64_Setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYXpFYmdibmptcjRLSE1WcmNGWVhLVzR3M0VKMW5xSlF5Q09hYUVadWh2UHZpUkdnWE8weGl6YWlhc3hqRnhkWHVlcmZuZ0paSDZqUHpHQ2I1dzl2Z05YWGw5cWE2Z3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDA0OTM1CWZpbGU6T3N0cmFjYV8wLjcuMjFfeDY0X1NldHVwLmV4ZQl2ZXJzaW9uOjAuNy4yMQo0eDBWT1NkMlY2bncvQVhzcHFZK1BsNU9YZ2tkbWRkL09mWmpiYzBrU3V4TG55QzhFb2Fhc04rL2kvbmpzdityMkd2U3pTM1lIdnJEOTNLT0lhbTFCZz09Cg=="
+      "url": "https://github.com/Kingmatfat/Ostraca-releases/releases/download/v0.7.22/Ostraca_0.7.22_x64_Setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYXpFYmdibmptcndKdDdPeVQ3STdaV3hYdm04ZHhhK21seHRtYkFyYy9nVklJR3RkY3c4MXBRd05pWGRMODN6ZlFjck9LTzZZcUR4TzNNaWVNV1pQL2VVK1VRTnhsdVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDA4NzM1CWZpbGU6T3N0cmFjYV8wLjcuMjJfeDY0X1NldHVwLmV4ZQl2ZXJzaW9uOjAuNy4yMgpFcDMwWFZBOEZ0QUs5cDdBd1g0YnV1a1h5SXlpS3I4bkJ1dldTd1MrL0MxeTZmRHZmVU1rUk1iSEk2REhHdW9Nbk5EaDlaaVNJMU9qaksrT3oxRVREZz09Cg=="
     }
   }
 }
