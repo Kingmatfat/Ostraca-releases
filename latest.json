@@ -1,16 +1,16 @@
 {
-  "version": "0.7.19",
-  "notes": "### Ostraca 0.7.19 for Windows\n\n- **Transcripts \u2192 Join Teams meeting** is available for the enabled MeetStream account. Paste the Teams invite link and select a library.\n- Choose **Save audio only**, **Live transcription only**, or **Save audio and transcribe live**. Live text uses your configured OpenAI transcription model. Keep Transcripts open until the results save.\n- This first rollout requests a stop after five minutes including the lobby. MeetStream can charge for bot time and may retain audio. The bot joins only when you tell it to.\n- Earlier Vexa recordings remain available for recovery. Saved-file transcription, libraries and account settings are unchanged.",
-  "pub_date": "2026-11-23T00:47:04.441992Z",
-  "url": "https://github.com/Kingmatfat/Ostraca-releases/releases/tag/v0.7.19",
+  "version": "0.7.20",
+  "notes": "### Ostraca 0.7.20 for Windows\n\n- **Transcripts** now has one **New transcript** button. Choose a microphone recording, a saved recording or audio file, a Teams meeting, or an existing transcript file. Give it a name before continuing.\n- Teams still supports audio, live transcription, or both, saved to the selected library. **Teams settings** and **Earlier recordings** are in the chooser.\n- Existing recordings and their files stay in place. New imports with the same display name remain separate items.",
+  "pub_date": "2026-11-23T01:33:09.171394Z",
+  "url": "https://github.com/Kingmatfat/Ostraca-releases/releases/tag/v0.7.20",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/Kingmatfat/Ostraca-releases/releases/download/v0.7.19/Ostraca_0.7.19_x64_Setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYXpFYmdibmptcnc4cnpnbVVYbzl2TTRBZTlGcHdVN0pKc0pYTmtYK2NaeU5KdFJqdzQvMmpJNXFZMk1uU3M0dUVRV0VSaGJPOUQzTWh2Mk5aRlIxQlhRQ3h4RDhydUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mzk0NzQ5CWZpbGU6T3N0cmFjYV8wLjcuMTlfeDY0X1NldHVwLmV4ZQl2ZXJzaW9uOjAuNy4xOQpaMmZ4TDcxTkV1bFFqOWtUUlYwV2FTWHVOR3BCMGZ3aFRzMU9YUWd3cVhKKy9PZXZnOHh3SDdMbzh6SENWd3AwWDJ1Z3UrcmRVTERvak1FcSsyWktEQT09Cg=="
+      "url": "https://github.com/Kingmatfat/Ostraca-releases/releases/download/v0.7.20/Ostraca_0.7.20_x64_Setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYXpFYmdibmptcjFPckEvUjlicm03L1M5aXdxalNlVFdlYW03OUNibS9Xc3JWcUM4YjNhZk84NGQyeFdUYkFuUkpiQS8yZCtkZ2F0dUJsbzFXbVJMd1d0Q29jYml4Q2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mzk3NTMzCWZpbGU6T3N0cmFjYV8wLjcuMjBfeDY0X1NldHVwLmV4ZQl2ZXJzaW9uOjAuNy4yMApGcGVuR0J3cjl2c2dFNFVwelNicnZTMVZnQllSRndZbjhrdDZkY2dYeU1BNVpyZXJOK0U2N3hKRG5mTS9xUmphdXo4UzA4dEo0dFpqajF2dlp1VmtDdz09Cg=="
     },
     "windows-x86_64-nsis": {
-      "url": "https://github.com/Kingmatfat/Ostraca-releases/releases/download/v0.7.19/Ostraca_0.7.19_x64_Setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYXpFYmdibmptcnc4cnpnbVVYbzl2TTRBZTlGcHdVN0pKc0pYTmtYK2NaeU5KdFJqdzQvMmpJNXFZMk1uU3M0dUVRV0VSaGJPOUQzTWh2Mk5aRlIxQlhRQ3h4RDhydUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mzk0NzQ5CWZpbGU6T3N0cmFjYV8wLjcuMTlfeDY0X1NldHVwLmV4ZQl2ZXJzaW9uOjAuNy4xOQpaMmZ4TDcxTkV1bFFqOWtUUlYwV2FTWHVOR3BCMGZ3aFRzMU9YUWd3cVhKKy9PZXZnOHh3SDdMbzh6SENWd3AwWDJ1Z3UrcmRVTERvak1FcSsyWktEQT09Cg=="
+      "url": "https://github.com/Kingmatfat/Ostraca-releases/releases/download/v0.7.20/Ostraca_0.7.20_x64_Setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYXpFYmdibmptcjFPckEvUjlicm03L1M5aXdxalNlVFdlYW03OUNibS9Xc3JWcUM4YjNhZk84NGQyeFdUYkFuUkpiQS8yZCtkZ2F0dUJsbzFXbVJMd1d0Q29jYml4Q2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mzk3NTMzCWZpbGU6T3N0cmFjYV8wLjcuMjBfeDY0X1NldHVwLmV4ZQl2ZXJzaW9uOjAuNy4yMApGcGVuR0J3cjl2c2dFNFVwelNicnZTMVZnQllSRndZbjhrdDZkY2dYeU1BNVpyZXJOK0U2N3hKRG5mTS9xUmphdXo4UzA4dEo0dFpqajF2dlp1VmtDdz09Cg=="
     }
   }
 }
