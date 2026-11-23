@@ -1,16 +1,16 @@
 {
-  "version": "0.7.18",
-  "notes": "### Ostraca 0.7.18 for Windows\n\n- **Transcripts** has a three-dot menu in the list and detail header. Name or rename a recording without renaming its files, open it in your player, or move the entry to the library trash after confirmation. Display names stay on this device.\n- **Transcribe recording** works with saved audio up to 24 MiB using the OpenAI transcription model configured under **Services \u2192 AI & transcription**. The app asks before sending audio and saves text beside the original, without overwriting it.\n- Libraries, sign-in and sync settings carry over. New Teams capture is unchanged; earlier Vexa recordings can still be recovered.",
-  "pub_date": "2026-11-23T00:14:20.360157Z",
-  "url": "https://github.com/Kingmatfat/Ostraca-releases/releases/tag/v0.7.18",
+  "version": "0.7.19",
+  "notes": "### Ostraca 0.7.19 for Windows\n\n- **Transcripts \u2192 Join Teams meeting** is available for the enabled MeetStream account. Paste the Teams invite link and select a library.\n- Choose **Save audio only**, **Live transcription only**, or **Save audio and transcribe live**. Live text uses your configured OpenAI transcription model. Keep Transcripts open until the results save.\n- This first rollout requests a stop after five minutes including the lobby. MeetStream can charge for bot time and may retain audio. The bot joins only when you tell it to.\n- Earlier Vexa recordings remain available for recovery. Saved-file transcription, libraries and account settings are unchanged.",
+  "pub_date": "2026-11-23T00:47:04.441992Z",
+  "url": "https://github.com/Kingmatfat/Ostraca-releases/releases/tag/v0.7.19",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/Kingmatfat/Ostraca-releases/releases/download/v0.7.18/Ostraca_0.7.18_x64_Setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYXpFYmdibmptcnpVTVMxd1N4azFWbHp5WGZpRTBERU1Dai9UWGV2S29BU2pDemIxb0YyYmxCblgzdHhvQ2RoRlFBMUhERHp4MlhaSnhEOWFYc1dTd2haS1ZlU1U0ZEE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzkyNzgzCWZpbGU6T3N0cmFjYV8wLjcuMThfeDY0X1NldHVwLmV4ZQl2ZXJzaW9uOjAuNy4xOApHU1o0YlhyZ3B1MC91dmdCcjdZVmdNbE9nTjVxOFI2KzNoUktGazBtdnRBeUZRNjlEakRkNWhqWWJxd2pRdU1CMXAzbHRFR1FjeWZLbWJEb3RmcHJBQT09Cg=="
+      "url": "https://github.com/Kingmatfat/Ostraca-releases/releases/download/v0.7.19/Ostraca_0.7.19_x64_Setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYXpFYmdibmptcnc4cnpnbVVYbzl2TTRBZTlGcHdVN0pKc0pYTmtYK2NaeU5KdFJqdzQvMmpJNXFZMk1uU3M0dUVRV0VSaGJPOUQzTWh2Mk5aRlIxQlhRQ3h4RDhydUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mzk0NzQ5CWZpbGU6T3N0cmFjYV8wLjcuMTlfeDY0X1NldHVwLmV4ZQl2ZXJzaW9uOjAuNy4xOQpaMmZ4TDcxTkV1bFFqOWtUUlYwV2FTWHVOR3BCMGZ3aFRzMU9YUWd3cVhKKy9PZXZnOHh3SDdMbzh6SENWd3AwWDJ1Z3UrcmRVTERvak1FcSsyWktEQT09Cg=="
     },
     "windows-x86_64-nsis": {
-      "url": "https://github.com/Kingmatfat/Ostraca-releases/releases/download/v0.7.18/Ostraca_0.7.18_x64_Setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYXpFYmdibmptcnpVTVMxd1N4azFWbHp5WGZpRTBERU1Dai9UWGV2S29BU2pDemIxb0YyYmxCblgzdHhvQ2RoRlFBMUhERHp4MlhaSnhEOWFYc1dTd2haS1ZlU1U0ZEE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzkyNzgzCWZpbGU6T3N0cmFjYV8wLjcuMThfeDY0X1NldHVwLmV4ZQl2ZXJzaW9uOjAuNy4xOApHU1o0YlhyZ3B1MC91dmdCcjdZVmdNbE9nTjVxOFI2KzNoUktGazBtdnRBeUZRNjlEakRkNWhqWWJxd2pRdU1CMXAzbHRFR1FjeWZLbWJEb3RmcHJBQT09Cg=="
+      "url": "https://github.com/Kingmatfat/Ostraca-releases/releases/download/v0.7.19/Ostraca_0.7.19_x64_Setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYXpFYmdibmptcnc4cnpnbVVYbzl2TTRBZTlGcHdVN0pKc0pYTmtYK2NaeU5KdFJqdzQvMmpJNXFZMk1uU3M0dUVRV0VSaGJPOUQzTWh2Mk5aRlIxQlhRQ3h4RDhydUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mzk0NzQ5CWZpbGU6T3N0cmFjYV8wLjcuMTlfeDY0X1NldHVwLmV4ZQl2ZXJzaW9uOjAuNy4xOQpaMmZ4TDcxTkV1bFFqOWtUUlYwV2FTWHVOR3BCMGZ3aFRzMU9YUWd3cVhKKy9PZXZnOHh3SDdMbzh6SENWd3AwWDJ1Z3UrcmRVTERvak1FcSsyWktEQT09Cg=="
     }
   }
 }
