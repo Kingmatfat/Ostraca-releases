@@ -1,10 +1,10 @@
 {
   "packageId": "com.mat.ostraca",
   "abi": "arm64-v8a",
-  "version": "0.7.26",
-  "versionCode": 7027,
-  "apk": "https://github.com/Kingmatfat/Ostraca-releases/releases/download/v0.7.26/Ostraca_0.7.26_arm64.apk",
-  "sha256": "cfdd93c86caf7e63ee23b25817bac11588921be2b577f884ea6c4aabaddc3f64",
-  "size": 10923384,
-  "notes": "Ostraca 0.7.26 for Windows x64 and Android ARM64\n\n- One sign-in starts private, automatic account sync for eligible notes, transcripts and recordings while the app is open. On upgrade from an earlier saved session, sign in once in Settings \u2192 Connect. There are no publish or pairing buttons.\n- Open read-only libraries from the other device in Settings \u2192 Library. Account Transcripts supports edits and on-demand original audio. Choose On this device for the unchanged local originals.\n- Fixed Android ARM64 private library access. Existing legacy/shared bindings stay in place; attachments and recordings above 64 MiB are not synced. Android installation still requires the system confirmation. No Linux update."
+  "version": "0.7.27",
+  "versionCode": 7028,
+  "apk": "https://github.com/Kingmatfat/Ostraca-releases/releases/download/v0.7.27/Ostraca_0.7.27_arm64.apk",
+  "sha256": "ba1e0ee907c54d19017046edcd4873e04909ff55fd33cc64a2b9dfc6725ea5d9",
+  "size": 10927480,
+  "notes": "Read-only libraries from your other devices now open in the normal Notes workspace instead of a popup. Browse folders, search note names, and open notes in tabs. Received notes remain read-only, and switching back preserves your open local notes.\n\nThis update is for Windows x64 and Android ARM64."
 }
