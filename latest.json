@@ -1,0 +1,10 @@
+{
+  "packageId": "com.mat.ostraca",
+  "abi": "arm64-v8a",
+  "version": "0.7.25",
+  "versionCode": 7026,
+  "apk": "https://github.com/Kingmatfat/Ostraca-releases/releases/download/v0.7.25/Ostraca_0.7.25_arm64.apk",
+  "sha256": "5984c5b9bfd0e40a3cb0e95dff44b2ea1aa40d6839de42a8d66cb39a13d1e551",
+  "size": 10878328,
+  "notes": "Ostraca 0.7.25 for Windows x64 and Android ARM64\n\n- Library sync is optional. Review the eligible libraries before turning it on. Other devices can read their Markdown notes. Existing local files and earlier personal-library sync stay in place.\n- Local Transcripts still opens by default. Use Shared Transcripts to opt in to account-wide transcript editing and on-demand original audio. Existing recordings are not copied automatically.\n- This is the first opt-in sync release. Start with a disposable library. It is not a backup; attachments are not included, shared recordings have a 64 MiB per-file limit, and old online revisions can count toward storage limits.\n- Android in-app updates require an updater-enabled version already installed and Android\u2019s install confirmation. No Linux update in this release."
+}
