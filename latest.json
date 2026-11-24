@@ -1,16 +1,16 @@
 {
-  "version": "0.7.26",
-  "notes": "Ostraca 0.7.26 for Windows x64 and Android ARM64\n\n- One sign-in starts private, automatic account sync for eligible notes, transcripts and recordings while the app is open. On upgrade from an earlier saved session, sign in once in Settings \u2192 Connect. There are no publish or pairing buttons.\n- Open read-only libraries from the other device in Settings \u2192 Library. Account Transcripts supports edits and on-demand original audio. Choose On this device for the unchanged local originals.\n- Fixed Android ARM64 private library access. Existing legacy/shared bindings stay in place; attachments and recordings above 64 MiB are not synced. Android installation still requires the system confirmation. No Linux update.",
-  "pub_date": "2026-11-24T01:46:32.119100Z",
-  "url": "https://github.com/Kingmatfat/Ostraca-releases/releases/tag/v0.7.26",
+  "version": "0.7.27",
+  "notes": "Read-only libraries from your other devices now open in the normal Notes workspace instead of a popup. Browse folders, search note names, and open notes in tabs. Received notes remain read-only, and switching back preserves your open local notes.\n\nThis update is for Windows x64 and Android ARM64.",
+  "pub_date": "2026-11-24T02:31:30.701185Z",
+  "url": "https://github.com/Kingmatfat/Ostraca-releases/releases/tag/v0.7.27",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/Kingmatfat/Ostraca-releases/releases/download/v0.7.26/Ostraca_0.7.26_x64_Setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYXpFYmdibmptcjJ0MlU1ZkNKYlFITWgrL3k0Snl5WUtmODVzTzJVRDIrd2x2NzNVSXRZRnhoeWs0MGI0SDltckpCQXBUMGhqd2hsQzE1TmhjZHBmVVErVmgvWDZXOUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDg0NTcxCWZpbGU6T3N0cmFjYV8wLjcuMjZfeDY0X1NldHVwLmV4ZQl2ZXJzaW9uOjAuNy4yNgpBWE14VmtTRzRsamNraGRQOUZ2VTdVVXdEeWJTSG9UMy8wV1BoNUhlR2I3dDlGS09FcEt1TXI2aTNTSjR3K0dnOXJ5OXlzaFRMNHFOQ3dUVk9VaFNBdz09Cg=="
+      "url": "https://github.com/Kingmatfat/Ostraca-releases/releases/download/v0.7.27/Ostraca_0.7.27_x64_Setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYXpFYmdibmptcjVDZnZielZ3USt6cmFtMGE3eFJ3bmd4b3dQdUgyd1lLcGVQOGRJTkptNzZpUEJ4OVcrTkhrcVRSMXZVNzNES3pERmxCTHdYVVZIY0dGWkZIUE1BamdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDg3NDUwCWZpbGU6T3N0cmFjYV8wLjcuMjdfeDY0X1NldHVwLmV4ZQl2ZXJzaW9uOjAuNy4yNwpwaEJzZUVIcG9Md041bHZGU0c4NmlCRkJuVDI1Ty92azNaSXJ3cEpTbjllQnVxM0ZENFk2TjlIanhzSkxDbVI1VkdRYm9tTE9vN0RUZEdwSDBiRFdCdz09Cg=="
     },
     "windows-x86_64-nsis": {
-      "url": "https://github.com/Kingmatfat/Ostraca-releases/releases/download/v0.7.26/Ostraca_0.7.26_x64_Setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYXpFYmdibmptcjJ0MlU1ZkNKYlFITWgrL3k0Snl5WUtmODVzTzJVRDIrd2x2NzNVSXRZRnhoeWs0MGI0SDltckpCQXBUMGhqd2hsQzE1TmhjZHBmVVErVmgvWDZXOUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDg0NTcxCWZpbGU6T3N0cmFjYV8wLjcuMjZfeDY0X1NldHVwLmV4ZQl2ZXJzaW9uOjAuNy4yNgpBWE14VmtTRzRsamNraGRQOUZ2VTdVVXdEeWJTSG9UMy8wV1BoNUhlR2I3dDlGS09FcEt1TXI2aTNTSjR3K0dnOXJ5OXlzaFRMNHFOQ3dUVk9VaFNBdz09Cg=="
+      "url": "https://github.com/Kingmatfat/Ostraca-releases/releases/download/v0.7.27/Ostraca_0.7.27_x64_Setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYXpFYmdibmptcjVDZnZielZ3USt6cmFtMGE3eFJ3bmd4b3dQdUgyd1lLcGVQOGRJTkptNzZpUEJ4OVcrTkhrcVRSMXZVNzNES3pERmxCTHdYVVZIY0dGWkZIUE1BamdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDg3NDUwCWZpbGU6T3N0cmFjYV8wLjcuMjdfeDY0X1NldHVwLmV4ZQl2ZXJzaW9uOjAuNy4yNwpwaEJzZUVIcG9Md041bHZGU0c4NmlCRkJuVDI1Ty92azNaSXJ3cEpTbjllQnVxM0ZENFk2TjlIanhzSkxDbVI1VkdRYm9tTE9vN0RUZEdwSDBiRFdCdz09Cg=="
     }
   }
 }
