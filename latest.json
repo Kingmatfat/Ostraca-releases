@@ -1,10 +1,10 @@
 {
   "packageId": "com.mat.ostraca",
   "abi": "arm64-v8a",
-  "version": "0.7.27",
-  "versionCode": 7028,
-  "apk": "https://github.com/Kingmatfat/Ostraca-releases/releases/download/v0.7.27/Ostraca_0.7.27_arm64.apk",
-  "sha256": "ba1e0ee907c54d19017046edcd4873e04909ff55fd33cc64a2b9dfc6725ea5d9",
+  "version": "0.7.28",
+  "versionCode": 7029,
+  "apk": "https://github.com/Kingmatfat/Ostraca-releases/releases/download/v0.7.28/Ostraca_0.7.28_arm64.apk",
+  "sha256": "33f535e450fa2146c2c8c3bfdbbfad98e841b35f23d1adb3fe0da75ad57b1971",
   "size": 10927480,
-  "notes": "Read-only libraries from your other devices now open in the normal Notes workspace instead of a popup. Browse folders, search note names, and open notes in tabs. Received notes remain read-only, and switching back preserves your open local notes.\n\nThis update is for Windows x64 and Android ARM64."
+  "notes": "Removed the tagline beneath the Ostraca logo on the Notes welcome screen. The logo and welcome buttons are unchanged.\n\nThis update is for Windows x64 and Android ARM64."
 }
