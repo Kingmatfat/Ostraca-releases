@@ -1,16 +1,16 @@
 {
-  "version": "0.7.28",
-  "notes": "Removed the tagline beneath the Ostraca logo on the Notes welcome screen. The logo and welcome buttons are unchanged.\n\nThis update is for Windows x64 and Android ARM64.",
-  "pub_date": "2026-11-24T22:26:31.906543Z",
-  "url": "https://github.com/Kingmatfat/Ostraca-releases/releases/tag/v0.7.28",
+  "version": "0.7.29",
+  "notes": "Windows AI chat now uses the signed-in account\u2019s configured provider for eligible accounts. Follow-up messages use the selected chat\u2019s history. Windows x64 only.",
+  "pub_date": "2026-11-25T00:35:45.436738Z",
+  "url": "https://github.com/Kingmatfat/Ostraca-releases/releases/tag/v0.7.29",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/Kingmatfat/Ostraca-releases/releases/download/v0.7.28/Ostraca_0.7.28_x64_Setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYXpFYmdibmptcjF2bFByd1AyM3lONEZYdlVMSnVUSmMvRVZWZFpLOWtEeFhjWW0vQ2Y1UGFCRi9zRUx5dnlCL2tSUFk4UlpvcnZ3cEhaUndsdFZLaGhPOG9IcmZIeXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTU4ODg5CWZpbGU6T3N0cmFjYV8wLjcuMjhfeDY0X1NldHVwLmV4ZQl2ZXJzaW9uOjAuNy4yOAppVjVpb2V5cDdqUnBNNEpOeklOclNmdlNGUGpFWS9kVlRwYkErc25GZjF0aE85Z25NRGtETmtPb3ZBcTc5UE5zVHNFS2RXZFRvbjZEbEw5RWFvM3BEZz09Cg=="
+      "url": "https://github.com/Kingmatfat/Ostraca-releases/releases/download/v0.7.29/Ostraca_0.7.29_x64_Setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYXpFYmdibmptcjF0MjltcDRXaVlBYmxPQXB2WWJPZTlmTDhpSlVjdFhmNlNTK0lEL1JzQVpZZmtUb0JKRjRMczNISWpWNjV5WDRuZUw1WEFSUS8wVUR5azB3NXhoK3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTY2NDk1CWZpbGU6T3N0cmFjYV8wLjcuMjlfeDY0X1NldHVwLmV4ZQl2ZXJzaW9uOjAuNy4yOQoyRlhmOEdhWC9BUFp0MldKa0YrRC9iVThlaEEyWVdTMVRvU1Q3bTVCdk1zRFlFb0t4M2o4MHRtRVZGcDArRWRCSXFDNDFHNGx3YkVBY0tjM0lxY0ZDQT09Cg=="
     },
     "windows-x86_64-nsis": {
-      "url": "https://github.com/Kingmatfat/Ostraca-releases/releases/download/v0.7.28/Ostraca_0.7.28_x64_Setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYXpFYmdibmptcjF2bFByd1AyM3lONEZYdlVMSnVUSmMvRVZWZFpLOWtEeFhjWW0vQ2Y1UGFCRi9zRUx5dnlCL2tSUFk4UlpvcnZ3cEhaUndsdFZLaGhPOG9IcmZIeXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTU4ODg5CWZpbGU6T3N0cmFjYV8wLjcuMjhfeDY0X1NldHVwLmV4ZQl2ZXJzaW9uOjAuNy4yOAppVjVpb2V5cDdqUnBNNEpOeklOclNmdlNGUGpFWS9kVlRwYkErc25GZjF0aE85Z25NRGtETmtPb3ZBcTc5UE5zVHNFS2RXZFRvbjZEbEw5RWFvM3BEZz09Cg=="
+      "url": "https://github.com/Kingmatfat/Ostraca-releases/releases/download/v0.7.29/Ostraca_0.7.29_x64_Setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYXpFYmdibmptcjF0MjltcDRXaVlBYmxPQXB2WWJPZTlmTDhpSlVjdFhmNlNTK0lEL1JzQVpZZmtUb0JKRjRMczNISWpWNjV5WDRuZUw1WEFSUS8wVUR5azB3NXhoK3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTY2NDk1CWZpbGU6T3N0cmFjYV8wLjcuMjlfeDY0X1NldHVwLmV4ZQl2ZXJzaW9uOjAuNy4yOQoyRlhmOEdhWC9BUFp0MldKa0YrRC9iVThlaEEyWVdTMVRvU1Q3bTVCdk1zRFlFb0t4M2o4MHRtRVZGcDArRWRCSXFDNDFHNGx3YkVBY0tjM0lxY0ZDQT09Cg=="
     }
   }
 }
