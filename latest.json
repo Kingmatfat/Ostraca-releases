@@ -1,16 +1,16 @@
 {
-  "version": "0.7.31",
-  "notes": "Windows x64: Ostraca Notes keeps its normal right-click tools and offers local Windows spelling suggestions; drag handles resize notes and table cells wrap. Ostraca Notetaker is the default display name for new settings; saved names are preserved. The meeting gateway now skips an unsupported audio frame rather than closing the stream. Zoom remains disabled.",
-  "pub_date": "2026-11-26T23:59:22.722335Z",
-  "url": "https://github.com/Kingmatfat/Ostraca-releases/releases/tag/v0.7.31",
+  "version": "0.8.0",
+  "notes": "Windows carries forward the latest Notes and meeting updates. Android adds adjustable Notes width and wrapping in table cells while retaining the existing mobile recording and sync workflows. Linux is unchanged.\n\nThis update is for Windows x64 and Android ARM64.",
+  "pub_date": "2026-11-27T03:05:48.858867Z",
+  "url": "https://github.com/Kingmatfat/Ostraca-releases/releases/tag/v0.8.0",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/Kingmatfat/Ostraca-releases/releases/download/v0.7.31/Ostraca_0.7.31_x64_Setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYXpFYmdibmptci9DL2poQlpVMjhGWjZicS9PbU5STFJGeDNmMXYxeEpuL0lMNnlyNFhRZ1dQUEpFK256Y2d6a0R0QTJiNjhDTzlmUGlreHAyWW5ucmc2YWZacGRiYndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzM2OTM2CWZpbGU6T3N0cmFjYV8wLjcuMzFfeDY0X1NldHVwLmV4ZQl2ZXJzaW9uOjAuNy4zMQpiY3h5YVBoVUZwRmR2c0JVSGJBZ3NhVDBKWUJpakJkNmlUVExzcUJzcTZxc1RPY0Q1K1ZmSkgzbkg3VDFOTTdSOTFyaHVzS3VsbEFlcG1PMmZHL09CUT09Cg=="
+      "url": "https://github.com/Kingmatfat/Ostraca-releases/releases/download/v0.8.0/Ostraca_0.8.0_x64_Setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYXpFYmdibmptcjBSZkZjckRnVjIxYmpUV0Z1OG5HUU43cXBWd2loVUdUd3cyTkVtbkV3dkJQMCs4enp6QUUzazlPbEZKZUpvR2xvQjhwdEZST0xxVlIwMUcySEVVc3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzQ4NzM2CWZpbGU6T3N0cmFjYV8wLjguMF94NjRfU2V0dXAuZXhlCXZlcnNpb246MC44LjAKQnM3Q2xwN0RrUS9GdkVRZVVBRWJLN3FGdWpna2FtanNGZzUyWFl4SnMzMkp3ZlBoaEdFQU1aL3NQdXVBL3FheFE4WDIyVnFVckpOOEgvODNLVEExREE9PQo="
     },
     "windows-x86_64-nsis": {
-      "url": "https://github.com/Kingmatfat/Ostraca-releases/releases/download/v0.7.31/Ostraca_0.7.31_x64_Setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYXpFYmdibmptci9DL2poQlpVMjhGWjZicS9PbU5STFJGeDNmMXYxeEpuL0lMNnlyNFhRZ1dQUEpFK256Y2d6a0R0QTJiNjhDTzlmUGlreHAyWW5ucmc2YWZacGRiYndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzM2OTM2CWZpbGU6T3N0cmFjYV8wLjcuMzFfeDY0X1NldHVwLmV4ZQl2ZXJzaW9uOjAuNy4zMQpiY3h5YVBoVUZwRmR2c0JVSGJBZ3NhVDBKWUJpakJkNmlUVExzcUJzcTZxc1RPY0Q1K1ZmSkgzbkg3VDFOTTdSOTFyaHVzS3VsbEFlcG1PMmZHL09CUT09Cg=="
+      "url": "https://github.com/Kingmatfat/Ostraca-releases/releases/download/v0.8.0/Ostraca_0.8.0_x64_Setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYXpFYmdibmptcjBSZkZjckRnVjIxYmpUV0Z1OG5HUU43cXBWd2loVUdUd3cyTkVtbkV3dkJQMCs4enp6QUUzazlPbEZKZUpvR2xvQjhwdEZST0xxVlIwMUcySEVVc3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzQ4NzM2CWZpbGU6T3N0cmFjYV8wLjguMF94NjRfU2V0dXAuZXhlCXZlcnNpb246MC44LjAKQnM3Q2xwN0RrUS9GdkVRZVVBRWJLN3FGdWpna2FtanNGZzUyWFl4SnMzMkp3ZlBoaEdFQU1aL3NQdXVBL3FheFE4WDIyVnFVckpOOEgvODNLVEExREE9PQo="
     }
   }
 }
